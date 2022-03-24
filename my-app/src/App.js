@@ -15,10 +15,11 @@ class App extends Component {
       <div classname="App"> 
       <h1> My First React App ! </h1>
       <p> Welcome :-) </p>
-      <Ninjas ninjas={this.state.ninjas} /> 
+      <Ninjas ni njas={this.state.ninjas} /> 
       </div>
     ); 
   }
 }
 
 export default App; 
+
